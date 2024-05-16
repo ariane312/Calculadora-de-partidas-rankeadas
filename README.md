@@ -20,7 +20,7 @@ Preencha o número de vitórias e derrotas nos campos fornecidos e clique no bot
 
 Autor
 
-[Seu Nome]
+Ariane de Almeida
 English:
 Ranked Matches Calculator
 
